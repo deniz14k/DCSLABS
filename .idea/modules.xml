@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DCSLab/Session4/DCSLab4.iml" filepath="$PROJECT_DIR$/DCSLab/Session4/DCSLab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DCSLab/Session5/DCSLab5.iml" filepath="$PROJECT_DIR$/DCSLab/Session5/DCSLab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DCSLab/Session6/DCSLab5 (1).iml" filepath="$PROJECT_DIR$/DCSLab/Session6/DCSLab5 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/DCSLab/Session3/Project3.iml" filepath="$PROJECT_DIR$/DCSLab/Session3/Project3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/laburiDeLaJawad.iml" filepath="$PROJECT_DIR$/.idea/laburiDeLaJawad.iml" />
+    </modules>
+  </component>
+</project>
