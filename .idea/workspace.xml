@@ -4,7 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7187af37-82fc-4b0f-8660-4d3260e06930" name="Changes" comment="" />
+    <list default="true" id="7187af37-82fc-4b0f-8660-4d3260e06930" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/PetriInputData/HTC.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DCSLab/Session4/PetriInputData/HTC.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/PetriInputData/OutsideTemp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DCSLab/Session4/PetriInputData/OutsideTemp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/PetriInputData/RTC.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DCSLab/Session4/PetriInputData/RTC.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/DCS_Lab4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/PIController/OETPN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/PIController/OETPNInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/PIController/OETPNInput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/PIController/PIController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/PIController/PIController.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/PIController/PIControllerInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/PIController/PIDController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/PIController/Plant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise1pg25/OETPN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise1pg25/OETPNInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise1pg25/OETPNInput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise1pg25/PIController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise1pg25/PIController.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise1pg25/PIControllerInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise1pg25/Plant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise1pg7/Comparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise1pg7/ComparatorInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise1pg7/comparator.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise2pg7/Comparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise2pg7/ComparatorInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise2pg7/comparator.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise3pg25/OETPN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise3pg25/OETPNInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise3pg25/OETPNInput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise3pg25/PIController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise3pg25/PIController.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise3pg25/PIControllerInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab2fuzzy/exercise3pg25/Plant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab3fuzzy/HTC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab3fuzzy/HeaterTankPlant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab3fuzzy/RTC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab3fuzzy/RoomPlant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCSLab/Session4/src/main/java/Lab4/lab3fuzzy/WheatherInput.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +69,10 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/deniz/Downloads/laburiDeLaJawad&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/deniz/Downloads/DCSLABS&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
